@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Kay Movies Search Engine Project
 
-This project is hosted on [](https://akshatdasondhi.github.io/KayMoviesProject/)
+This project is hosted on [Kay Movies](https://akshatdasondhi.github.io/KayMoviesProject/)
 
 ## Project Description 
 
